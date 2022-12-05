@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darian</h1>
-<h3 align="center">A prospective software engineering student</h3>
+<h3 align="center">A full-stack software engineer</h3>
 <img src="https://c.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" alt="Girl in a jacket" width="400">
 
 
