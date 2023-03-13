@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darianchen" alt="darianchen" /></a> </p>
 
-- 🔭 I’m currently working on [a full-stack clone of stack overflow.](https://github.com/darianchen/Syntax-Error)
+- 🔭 I’m currently working on [a chess variant](https://darianchen.github.io/gothic-chess/)
 
-- 🌱 I’m currently learning **React and Redux**
+- 🌱 I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
