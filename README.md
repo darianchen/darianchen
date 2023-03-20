@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darian</h1>
 <div align="center" > <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&background=51FFB700&center=true&vCenter=true&lines=Full+Stack+Web+Developer" /> </div>
 
-- 👨‍💻 I'm eager to find a software engineering role that challenges me to learn new technologies and contribute to innovative solutions
+- 👨‍💻 I'm eager to find a software engineering role that challenges me to learn new technologies
 - 🚀 Always ready to collaborate with others on new projects
 - 🔭 Currently working on a [chess variant](https://darianchen.github.io/gothic-chess/)
 - 📫 How to reach me:
@@ -41,7 +41,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=darianchen&label=Profile%20views&color=0e75b6&style=flat" alt="darianchen" /> </p>
 
-<details><summary>GitHub streak and trophies</summary>
+<details><summary>GitHub trophies</summary>
 <img src="https://github-profile-trophy.vercel.app/?username=darianchen&theme=juicyfresh&no-bg=true&rank=-C" />
 </details>
 
