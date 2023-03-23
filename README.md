@@ -7,7 +7,15 @@
 - 📫 How to reach me:
 **[LinkedIn](https://www.linkedin.com/in/darianchen), darianychen@gmail.com**
 
-<br>
+## Featured Projects
+
+- [syntaxError](https://syntaxerror-fsapp.herokuapp.com/)
+  - A Stack Overflow inspired application where users can post and answer questions
+- [Opus](https://opus.onrender.com/)
+  - An online web application where users can read or author books
+- [I'm the Map!](https://darianchen.github.io/World-Map-Project/)
+  - An interactive world map created using JavaScript, d3, and webpack
+
 <h2 align="center">
 :cd: Technologies Used:
  </h2>
