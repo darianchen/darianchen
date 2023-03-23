@@ -53,6 +53,10 @@
 <img src="https://github-profile-trophy.vercel.app/?username=darianchen&theme=juicyfresh&no-bg=true&rank=-C" />
 </details>
 
+<p align="center">
+  <img src="https://github.com/darianchen/darianchen/blob/output/github-contribution-grid-snake.gif">
+</p>
+
 <h2 align="center"> :e-mail: Contact Me <h2>
 <div align="center">
   <a href = "https://www.linkedin.com/in/darianchen/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
