@@ -51,6 +51,10 @@
 <img src="https://github-profile-trophy.vercel.app/?username=darianchen&theme=juicyfresh&no-bg=true&rank=-C" />
 </details>
 
+<details><summary>LeetCode</summary>
+<img src="https://leetcard.jacoblin.cool/darianychen?theme=light&font=Noto%20Serif%20Devanagari" />
+</details>
+
 <p align="center">
   <img src="https://github.com/darianchen/darianchen/blob/output/github-contribution-grid-snake.gif">
 </p>
