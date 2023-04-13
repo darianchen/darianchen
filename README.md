@@ -52,7 +52,7 @@
 </details>
 
 <details><summary>LeetCode</summary>
-<img src="https://leetcard.jacoblin.cool/darianychen?theme=light&font=Noto%20Serif%20Devanagari" />
+<img src="https://leetcard.jacoblin.cool/darianchen?theme=light&font=Noto%20Serif%20Devanagari" />
 </details>
 
 <p align="center">
